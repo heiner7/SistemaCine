@@ -1,0 +1,18 @@
+C:\Users\Heiner\source\repos\SistemaMatricula\Bibliotecas\CapaConexion.dll
+C:\Users\Heiner\source\repos\SistemaMatricula\Bibliotecas\CapaConexion.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaConexion\obj\Debug\CapaConexion.csprojAssemblyReference.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\Bibliotecas\CapaConexion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\Bibliotecas\CapaConexion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaConexion\obj\Debug\CapaConexion.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaConexion\obj\Debug\CapaConexion.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\Bibliotecas\CapaConexion.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\Bibliotecas\CapaConexion.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaConexion\obj\Debug\CapaConexion.csproj.AssemblyReference.cache
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaConexion\obj\Debug\CapaConexion.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaConexion\obj\Debug\CapaConexion.pdb

@@ -1,0 +1,87 @@
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\SistemaMatricula.CapaPresentacion.Form1.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaConexion.dll
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaIntegracion.dll
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaConexion.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaIntegracion.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmEstudiante.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmGrupo.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmProfesor.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmCurso.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmEliminar.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmMatricula.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmHorario.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmAula.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaConexion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaConexion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaIntegracion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmMuseo.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmActivar.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmArtista.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmObra.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmImagen.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmTipoObra.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmColeccion.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmTipoMuseo.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmEntrada.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrecio.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmTarjeta.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\bin\Debug\CapaConexion.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\bin\Debug\CapaIntegracion.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\bin\Debug\CapaLogica.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\bin\Debug\CapaConexion.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\bin\Debug\CapaIntegracion.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\bin\Debug\CapaLogica.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.frmActivar.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.frmArtista.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.frmColeccion.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.frmEntrada.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.frmImagen.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.frmMuseo.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.frmObra.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrecio.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.frmTarjeta.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.frmTipoMuseo.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.frmTipoObra.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

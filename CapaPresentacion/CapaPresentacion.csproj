@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{648BCFEA-631C-438B-A105-91D8AC001A13}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CapaConexion">
+      <HintPath>..\Bibliotecas\CapaConexion.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaIntegracion">
+      <HintPath>..\Bibliotecas\CapaIntegracion.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmActivar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmActivar.Designer.cs">
+      <DependentUpon>frmActivar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmArtista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmArtista.Designer.cs">
+      <DependentUpon>frmArtista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmColeccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmColeccion.Designer.cs">
+      <DependentUpon>frmColeccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEntrada.Designer.cs">
+      <DependentUpon>frmEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmImagen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImagen.Designer.cs">
+      <DependentUpon>frmImagen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMuseo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMuseo.Designer.cs">
+      <DependentUpon>frmMuseo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmObra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmObra.Designer.cs">
+      <DependentUpon>frmObra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrecio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrecio.Designer.cs">
+      <DependentUpon>frmPrecio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTarjeta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTarjeta.Designer.cs">
+      <DependentUpon>frmTarjeta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTipoMuseo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTipoMuseo.Designer.cs">
+      <DependentUpon>frmTipoMuseo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTipoObra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTipoObra.Designer.cs">
+      <DependentUpon>frmTipoObra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuario.Designer.cs">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmActivar.resx">
+      <DependentUpon>frmActivar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmArtista.resx">
+      <DependentUpon>frmArtista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmColeccion.resx">
+      <DependentUpon>frmColeccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEntrada.resx">
+      <DependentUpon>frmEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImagen.resx">
+      <DependentUpon>frmImagen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMuseo.resx">
+      <DependentUpon>frmMuseo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmObra.resx">
+      <DependentUpon>frmObra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrecio.resx">
+      <DependentUpon>frmPrecio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTarjeta.resx">
+      <DependentUpon>frmTarjeta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTipoMuseo.resx">
+      <DependentUpon>frmTipoMuseo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTipoObra.resx">
+      <DependentUpon>frmTipoObra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuario.resx">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

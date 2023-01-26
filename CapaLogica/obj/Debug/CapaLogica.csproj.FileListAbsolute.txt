@@ -1,0 +1,21 @@
+C:\Users\Heiner\source\repos\SistemaMatricula\Bibliotecas\CapaLogica.dll
+C:\Users\Heiner\source\repos\SistemaMatricula\Bibliotecas\CapaLogica.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\Bibliotecas\CapaLogica.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\Bibliotecas\CapaLogica.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\Bibliotecas\CapaLogica.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\Bibliotecas\CapaLogica.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaLogica\obj\Debug\CapaLogica.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaLogica\obj\Debug\CapaLogica.pdb

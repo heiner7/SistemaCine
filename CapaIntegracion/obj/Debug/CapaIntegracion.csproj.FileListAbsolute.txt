@@ -1,0 +1,21 @@
+C:\Users\Heiner\source\repos\SistemaMatricula\Bibliotecas\CapaIntegracion.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.csprojAssemblyReference.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\Heiner\source\repos\SistemaMatricula\Bibliotecas\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\Bibliotecas\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\Bibliotecas\CapaIntegracion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\Bibliotecas\CapaIntegracion.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\Bibliotecas\CapaIntegracion.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaCine\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
